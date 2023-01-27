@@ -1,0 +1,25 @@
+footer {
+    width: 1600px;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background: #211138 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+p {
+    width: 1110px;
+    height: 15px;
+    margin-left: 245px;
+    padding-top: 43px;
+    text-align: center;
+    font: normal normal bold 12px/15px Montserrat;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    opacity: 1;
+    color: #b2acba;
+}
+
+.brand__name, .student__name {
+    color: #6200ea;
+}
